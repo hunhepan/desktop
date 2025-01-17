@@ -28,6 +28,13 @@
 2. 将应用拖入 Applications 文件夹
 3. 如遇到应用程序已损坏的提示，请按照上述 Apple Silicon Mac 的步骤 3 操作
 
+
+## 测试规则
+
+你可以到 https://github.com/hunhepan/hunhepan-rule-template 下载zip包，然后到本地解压后，在软件【规则管理】、【目录导入】中选择解压后的dist/目录。
+
+或者 直接【规则管理】、【通过git导入】，输入地址：https://github.com/hunhepan/hunhepan-rule-template 
+
 ## 常见问题
 
 如果您在使用过程中遇到任何问题，请查看我们的问题反馈页面或提交新的 Issue。
