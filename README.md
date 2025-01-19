@@ -1,5 +1,10 @@
 # 混合盘 (HunHePan)
 
+![混合盘pc端截图](images/image.png)
+
+![混合盘发现页面](images/image-1.png)
+
+
 ## 下载使用
 
 ### Windows 用户
